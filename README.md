@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Puneet
 
-<!--
-**puneet29/puneet29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header image](github_header.jpg)
 
-Here are some ideas to get you started:
+I am a software engineer who is passionate about making open-source contributions and tinkering with data to get intruiging insights. Loves the concept of Yin-Yang. Some of the tools that I love working with include Pytorch, Prophet, Plotly, and Pandas. Side hobbies include Photo editing, graphic designing, playing ukulele, discovering new artists (singers and actors), and playing PC games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😎 I’m currently taking a break from work.
+- 🌱 I’m currently learning Spanish and play ukulele.
+- 👯 I’m looking to collaborate on Machine learning projects.
+- 💬 Ask me about Time series forecasting, Computer vision and other ML related stuff.
+- 📫 How to reach me: Write to me at my Email (linked on my profile)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/geekpuneet/)
