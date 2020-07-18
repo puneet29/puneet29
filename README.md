@@ -1,6 +1,6 @@
 # Hi, I'm Puneet
 
-![header image](github_header.jpg)
+![header image](https://raw.githubusercontent.com/puneet29/puneet29/master/github_header.jpg)
 
 I am a software engineer who is passionate about making open-source contributions and tinkering with data to get intruiging insights. Loves the concept of Yin-Yang. Some of the tools that I love working with include Pytorch, Prophet, Plotly, and Pandas. Side hobbies include Photo editing, graphic designing, playing ukulele, discovering new artists (singers and actors), and playing PC games.
 
